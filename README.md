@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawtarelhabbazi2000&label=Profile%20views&color=0e75b6&style=flat" alt="kawtarelhabbazi2000" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **kawtarelhabbazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
