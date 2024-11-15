@@ -3,7 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawtarelhabbazi2000&label=Profile%20views&color=0e75b6&style=flat" alt="kawtarelhabbazi2000" /> </p>
 
-- 📫 How to reach me **kawtarelhabbazi@gmail.com**
+<p align="left">
+  🎨 Check out my design portfolio 
+  <a href="https://kawtar-elhabbazi.notion.site/Hi-I-m-Kawtar-10c6f4e55f0c803bbdb1d3457607450f" target="_blank">
+    here
+  </a> 
+  to see my creative projects and work.
+</p>
+
+
+📫 How to reach me **kawtarelhabbazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
